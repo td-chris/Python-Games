@@ -13,7 +13,7 @@ A python console game which you can play "hangman game" and "guess the word game
     :construction:  Project in development  :construction:
 </h4>
 
-# Skills learn:
+# Skills learned:
 * Python;
 * Python functions;
 

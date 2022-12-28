@@ -7,7 +7,7 @@
 
 A python console game which you can play "hangman game" and "guess the word game".
 
-# Status do Projeto:
+# Project Status:
 
 <h4 align="center"> 
     :construction:  Project in development  :construction:

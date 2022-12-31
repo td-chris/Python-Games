@@ -12,11 +12,12 @@ def choose_game():
   if(game_option == 1):
     print("You're gonna play: Guess the number!!")
     print("Good luck!")
+    guess_the_number.play()
   elif(game_option == 2):
     print("You're gonna play: Hangman!!")
     print("Good luck!")
     
-  print("Game over!")
+  print("Thanks for playing!")
   
 if(__name__ == "__main__"):
   choose_game()

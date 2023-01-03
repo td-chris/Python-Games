@@ -39,7 +39,6 @@ def opening_game_message():
   print('***********************************')
   
 def start_secret_word():
-  # please insert your word address below
   words_file = open("code\words.txt", "r")
   words = []
   

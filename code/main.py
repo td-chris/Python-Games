@@ -1,4 +1,5 @@
 import guess_the_number
+import hangman
 
 def choose_game():
   print('************************************')
@@ -16,7 +17,8 @@ def choose_game():
   elif(game_option == 2):
     print("You're gonna play: Hangman!!")
     print("Good luck!")
-    
+    hangman.play()
+  
   print("Thanks for playing!")
   
 if(__name__ == "__main__"):
